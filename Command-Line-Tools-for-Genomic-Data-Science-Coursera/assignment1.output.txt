@@ -1,0 +1,35 @@
+Q1. Number of chromosomes in the genome:
+Answer: 3
+Q2. Number of genes:
+Answer: 5453
+Q3. Number of transcript variants:
+Answer: 5456
+Q4. Number of genes with a single splice variant:
+Answer: 5450
+Q5. Number of genes with 2 or more splice variants:
+Answer: 3
+Q6. Number of genes on the '+' strand:
+Answer: 2662
+Q7. Number of genes on the '-' strand:
+Answer: 2791
+Q8. Number of genes on chromosome chr1:
+Answer: 1624
+Q9. Number of genes on chromosome chr2:
+Answer: 2058
+Q10. Number of genes on chromosome chr3:
+Answer: 1771
+Q11. Number of transcripts on chromosome chr1:
+Answer: 1625
+Q12. Number of transcripts on chromosome chr2:
+Answer: 2059
+Q13. Number of transcripts on chromosome chr3:
+Answer: 1772
+Q14. Number of genes in common between condition A and B
+Answer (method 1): 2410
+Answer (method 2): 2410
+Q15. Genes exclusive to condition A:
+Answer: 1205
+Q16. Genes exclusive to condition B:
+Answer: 1243
+Q17. Genes common to all three conditions:
+Answer: 1608

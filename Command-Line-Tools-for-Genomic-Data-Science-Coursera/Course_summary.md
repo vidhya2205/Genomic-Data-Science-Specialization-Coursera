@@ -44,7 +44,7 @@ Usually there is a standard input and standard output which is the command line 
 -	tar : Archives multiple files into one file (optionally compresses with -z or -j). For archiving -cvf and dearchiving/extracting -xvf
 -	zcat : Displays the contents of a .gz file without decompressing it to disk.
 
-**Assignment1** – My original solutions to the questions and the output is shared in [bash script](https://github.com/vidhya2205/Command-Line-Tools-for-Genomic-Data-Science-Coursera/blob/main/assignment1.sh) and [output](https://github.com/vidhya2205/Command-Line-Tools-for-Genomic-Data-Science-Coursera/blob/main/assignment1.output.txt)
+**Assignment1** – My original solutions to the questions and the output is shared in [bash script](assignment1.sh) and [output](assignment1.output.txt)
 
 To execute the bash script - 
 

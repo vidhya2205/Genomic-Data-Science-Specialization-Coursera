@@ -1,6 +1,6 @@
-#Course Summary
-This is summary of the key learnings noted based on the course [“Command Line Tools for Genomic Data Science”]{https://www.coursera.org/learn/genomic-tools?msockid=263c03b77fe161fb36cf104d7e47606b) 
-##**Week 1:**
+# Course Summary
+This is summary of the key learnings noted based on the course [“Command Line Tools for Genomic Data Science”](https://www.coursera.org/learn/genomic-tools?msockid=263c03b77fe161fb36cf104d7e47606b) 
+## **Week 1:**
 List of commands:
 1.	Basic commands
 Just line in every operating system we can communicate with the Unix OS using command line tools in the terminal-

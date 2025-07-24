@@ -1,0 +1,39 @@
+Q1. How many alignments does the set contain?
+Answer: 221372
+Q2. How many alignments show the read’s mate unmapped?
+Answer: 65521
+Q3. How many alignments contain a deletion (D)?
+Answer: 2451
+Q4. How many alignments show the read’s mate mapped to the same chromosome?
+Answer :150913
+Q5. How many alignments are spliced?
+Answer 0
+Q6. How many alignments does the set contain?
+Answer: 7081
+Q7. How many alignments show the read’s mate unmapped?
+Answer 1983
+Q8. How many alignments contain a deletion (D)?
+Answer 31
+Q9. How many alignments show the read’s mate mapped to the same chromosome?
+Answer 4670
+Q10. How many alignments are spliced?
+Answer: 0
+Q11. How many sequences are in the genome file?
+Answer: 7
+Q12. What is the length of the first sequence in the genome file?
+Answer: @SQ	SN:Chr1	LN:29923332	AS:wu_0.v7.fas	SP:wu_0.v7.fas
+Q13. What alignment tool was used?
+Q14. What is the read identifier (name) for the first alignment?
+Answer: GAII05_0002:1:113:7822:3886#0
+Q15. What is the start position of this read’s mate on the genome? Give this as ‘chrom:pos’ if the read was mapped, or ‘*” if unmapped?
+Answer=	11700332
+Q16. How many overlaps (each overlap is reported on one line) are reported?
+Answer 3101
+Q17. How many of these are 10 bases or longer?
+Answer: 2900:9
+Q18. How many alignments overlap the annotations?
+Answer: 3101
+Q19. Conversely, how many exons have reads mapped to them?
+Answer: 21
+Q20. If you were to convert the transcript annotations in the file “athal_wu_0_A_annot.gtf” into BED format, how many BED records would be generated?
+Answer: 4

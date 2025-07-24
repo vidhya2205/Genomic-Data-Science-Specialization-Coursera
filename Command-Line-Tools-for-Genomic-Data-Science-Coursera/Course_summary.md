@@ -232,7 +232,7 @@ Group nearby features into clusters.
 ```bash
 bedtools cluster -i features.bed
 ```
-**Assignment2** – My original solutions to the questions and the output is shared in [bash script](assignment2.sh) and [output](assignment2.output.txt)
+**Assignment2** – My original solutions to the questions and the output is shared in [bash script](assignment2.sh) and [output](assignment2.output)
 
 To execute the bash script - 
 
